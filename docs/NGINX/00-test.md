@@ -1,5 +1,7 @@
 # NGINX Product Install Guides
 
+[링크]("../ASM 서비스 추가 요령.pdf")
+
 ## NGINX Plus
 
 NGINX Plus 설치는 크게 License 업로드, Repository 등록, Installation 과정으로 나뉩니다.
