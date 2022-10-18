@@ -1,6 +1,6 @@
 # NGINX Product Install Guides
 
-[링크]("../ASM 서비스 추가 요령.pdf")
+[링크](../ASM%20서비스%20추가%20요령.pdf)
 
 ## NGINX Plus
 
